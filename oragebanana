@@ -1,0 +1,12 @@
+# def Katta(lst:list):
+#        son=str()
+#        lst=sorted(lst,key=lambda x: str(x)[0],reverse=True)
+#        for i in lst:
+#               son+=str(i)
+#        return int(son)
+
+
+# lst=list()
+# for i in range(int(input("Nechta son kiritasiz: "))):
+#        lst.append(int(input("Son kiriting: ")))
+# print(Katta(lst))
